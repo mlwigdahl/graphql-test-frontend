@@ -1,0 +1,11 @@
+{
+  "name": "graphql-test-frontend",
+  "version": "0.0.1",
+  "description": "GraphQL front end tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Wigdahl",
+  "license": "ISC"
+}
